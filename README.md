@@ -26,7 +26,8 @@ An empirical statistical and clustering analysis examining the relationship betw
   - **Cluster 1 (United Kingdom, Switzerland, Ireland):** Higher economic profile (income & expenditure) with a more heterogeneous social/educational structure.
   - **Cluster 2 (Norway, Sweden):** More homogeneous socio-educational structure reflecting the Nordic welfare model.
 - **Validation:** Average Silhouette width of **0.30** (Cluster 1: 0.29, Cluster 2: 0.32), indicating overlapping/borderline socio-economic dynamics across developed OECD nations.
-
+## Report
+For detailed visualizations, statistical tests, and full academic interpretation (originally completed as a Data Analytics final project), see [`analysis_report.pdf`](analysis_report.pdf).
 ## How to Run
 1. Clone the repository:
    ```bash
